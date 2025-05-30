@@ -1,0 +1,10 @@
+
+nav {
+  /* Custom nav shadow for better separation */
+  box-shadow: 0 2px 8px 0 rgba(30, 64, 175, 0.04);
+}
+
+/* Hide scroll on mobile menu overlay */
+.menu-open {
+  overflow: hidden;
+}
