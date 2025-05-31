@@ -1,0 +1,27 @@
+.project-bg {
+  background: #f0f4ff;
+}
+
+section {
+  min-height: 100vh;
+}
+
+.max-w-2xl {
+  box-shadow: 0 10px 24px 0 rgba(30, 64, 175, 0.10);
+}
+
+img {
+  height: 320px;
+  width: auto;
+  max-width: 100%;
+  object-fit: cover;
+  border-radius: 0.75rem; /* matches rounded-lg */
+  box-shadow: 0 4px 24px 0 rgba(30, 64, 175, 0.08);
+  border: 1px solid #bfdbfe; /* matches border-blue-200 */
+}
+
+@media (max-width: 768px) {
+  img {
+    height: 200px;
+  }
+}
