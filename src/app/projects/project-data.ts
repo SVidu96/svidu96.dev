@@ -1,5 +1,14 @@
 export const PROJECTS = [
   {
+    id: '6',
+    title: 'Dr Kal\'s Skin Clinic',
+    excerpt:"Hostinger hosted website for Dr Kal's Skin Clinic",
+    description: 'A website and e-commerce platform for Dr Kal\'s Skin Clinic, built and hosted on Hostinger. SEO optimized with a clean, user-friendly design to enhance details of services and products offered and buy skincare products online.',
+    images: ['/project-6/1.png', '/project-6/2.png'],
+    tags: ['Hostinger', 'E-Commerce', 'SEO'],
+    link: 'https://drkalsskinclinic.co.uk/'
+  },
+  {
     id: '1',
     title: 'Rotaract Club of University of Kelaniya',
     excerpt:" WordPress website for Rotaract Club of University of Kelaniya",
